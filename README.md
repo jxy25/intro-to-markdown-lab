@@ -17,7 +17,7 @@ const functionName = (params) => {
 1. **The arrow syntax**: Indicates that this will be a function.
 1. **The body**: The statements that make up the function itself. Surrounded by curly braces.
 
-Example:
+_Example_:
 
 ```
 const greet = (name) => {
@@ -31,7 +31,7 @@ console.log("Hello, " + name + "!");
 
 To execute the function, you _call_ or _invoke_ it by using its name followed by parentheses.
 
-Example:
+_Example_:
 
 ```
 greet('Alice'); // Outputs: Hello, Alice!
@@ -41,7 +41,7 @@ greet('Alice'); // Outputs: Hello, Alice!
 
 Functions can process data input and output a value using the return keyword.
 
-Example:
+_Example_:
 
 ```
 const addNums = (numA, numB) => {
